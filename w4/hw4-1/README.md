@@ -8,13 +8,13 @@ Note: Schema design is as much an art as a science. If you get the answer wrong 
 
 Check all that apply:
 
--The number of milestones for a company rarely exceeds 10 per year.
--Milestones will never contain more than 15 fields
--An individual milestone entry will always be smaller than 16K bytes
--One frequently displayed view of our data displays company details such as the "name", "founded_year", "twitter_username", etc. as well as milestones.
--Some of the milestone fields such as "stoneable_type" and "stoneable" are frequently the same from one milestone to another.
+- The number of milestones for a company rarely exceeds 10 per year.
+- Milestones will never contain more than 15 fields
+- An individual milestone entry will always be smaller than 16K bytes
+- One frequently displayed view of our data displays company details such as the "name", "founded_year", "twitter_username", etc. as well as milestones.
+- Some of the milestone fields such as "stoneable_type" and "stoneable" are frequently the same from one milestone to another.
 
 ## Answer
 
--The number of milestones for a company rarely exceeds 10 per year.
--One frequently displayed view of our data displays company details such as the "name", "founded_year", "twitter_username", etc. as well as milestones.
+- The number of milestones for a company rarely exceeds 10 per year.
+- One frequently displayed view of our data displays company details such as the "name", "founded_year", "twitter_username", etc. as well as milestones.
